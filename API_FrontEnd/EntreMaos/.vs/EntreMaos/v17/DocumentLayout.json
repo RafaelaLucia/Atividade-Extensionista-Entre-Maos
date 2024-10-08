@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\cadastrarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:cadastrarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\cadastrarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:cadastrarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\familiares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:familiares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\familiares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:familiares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\buscarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:buscarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\buscaecadastrocestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:buscaecadastrocestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\pegarcesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:pegarcesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\pegarcesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:pegarcesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\buscaecadastrocestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:buscaecadastrocestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|c:\\users\\rafae\\downloads\\extensionista\\api_frontend\\entremaos\\buscaecadastrocestas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:buscaecadastrocestas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\buscarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:buscarcontemplados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC48B7BE-FA4E-410E-B1B5-DF1D6E55D2F9}|EntreMaos.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:14:26.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarContemplados.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\CadastrarContemplados.cs",
+              "RelativeDocumentMoniker": "CadastrarContemplados.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\CadastrarContemplados.cs",
+              "RelativeToolTip": "CadastrarContemplados.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAMwPcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:42:00.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Familiares.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Familiares.cs",
+              "RelativeDocumentMoniker": "Familiares.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Familiares.cs",
+              "RelativeToolTip": "Familiares.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAMwHgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:06:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarContemplados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\CadastrarContemplados.cs",
+              "RelativeDocumentMoniker": "CadastrarContemplados.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\CadastrarContemplados.cs [Design]",
+              "RelativeToolTip": "CadastrarContemplados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:10:15.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Familiares.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Familiares.cs",
+              "RelativeDocumentMoniker": "Familiares.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Familiares.cs [Design]",
+              "RelativeToolTip": "Familiares.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:59:53.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuscaECadastroCestas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.cs",
+              "RelativeDocumentMoniker": "BuscaECadastroCestas.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.cs [Design]",
+              "RelativeToolTip": "BuscaECadastroCestas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T23:09:33.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuscarContemplados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscarContemplados.cs",
+              "RelativeDocumentMoniker": "BuscarContemplados.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscarContemplados.cs [Design]",
+              "RelativeToolTip": "BuscarContemplados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:58:00.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PegarCesta.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\PegarCesta.cs",
+              "RelativeDocumentMoniker": "PegarCesta.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\PegarCesta.cs",
+              "RelativeToolTip": "PegarCesta.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAIA1wAABAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:08:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PegarCesta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\PegarCesta.cs",
+              "RelativeDocumentMoniker": "PegarCesta.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\PegarCesta.cs [Design]",
+              "RelativeToolTip": "PegarCesta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:07:30.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:24:06.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuscaECadastroCestas.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.cs",
+              "RelativeDocumentMoniker": "BuscaECadastroCestas.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.cs",
+              "RelativeToolTip": "BuscaECadastroCestas.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAD4v/AAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:59:06.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuscaECadastroCestas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.Designer.cs",
+              "RelativeDocumentMoniker": "BuscaECadastroCestas.Designer.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscaECadastroCestas.Designer.cs",
+              "RelativeToolTip": "BuscaECadastroCestas.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:43:04.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuscarContemplados.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscarContemplados.cs",
+              "RelativeDocumentMoniker": "BuscarContemplados.cs",
+              "ToolTip": "C:\\Users\\rafae\\Downloads\\Extensionista\\API_FrontEnd\\EntreMaos\\BuscarContemplados.cs",
+              "RelativeToolTip": "BuscarContemplados.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAowDIBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:59:00.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
